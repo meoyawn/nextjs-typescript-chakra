@@ -22,7 +22,7 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-svgo": "^8.0.0",
     "jest": "^26.1.0",
-    "responsive-loader": "2.0.0",
+    "responsive-loader": "^2.1.1",
     "sharp": "^0.26.0",
     "sitemap": "^6.2.0",
     "ts-jest": "^26.1.3",
