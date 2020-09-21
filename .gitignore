@@ -4,6 +4,7 @@ node_modules
 .idea
 yarn-error.log
 
-gen
+gen/
 public/sitemap.xml
 public/manifest/
+out/
